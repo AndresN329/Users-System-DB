@@ -13,7 +13,7 @@ public class ConfigDB {
             Class.forName("com.mysql.cj.jdbc.Driver");
             String url = "jdbc:mysql://localhost:3306/User_Management";
             String user = "root";
-            String password = "N020806!";
+            String password = "yourpassword";
             //establishes the connection
             objConnection = (Connection) DriverManager.getConnection(url, user, password);
             System.out.println("Successful connection");
