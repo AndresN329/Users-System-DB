@@ -39,7 +39,7 @@ src/
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/AndresN329/Users-System-DB.git](https://github.com/youruser/Users-System-DB.git)
+    git clone [https://github.com/AndresN329/Users-System-DB.git](https://github.com/AndresN329/Users-System-DB.git)
     ```
 
 2.  **Configure your MySQL database:**
